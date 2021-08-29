@@ -9,7 +9,7 @@ class NetworkHandler {
   var logger = Logger();
 
   Future<List<WallpaperModel>> getWallpapers(String url) async {
-    String apiKey = "563492ad6f91700001000001b48027c58e1548f7ac33743b2c0b6e68";
+    String apiKey = "YOUR PIXELS API KEY";
     url = formater(url);
     http.Response response =
         await http.get(Uri.parse(url), headers: {"Authorization": apiKey});
