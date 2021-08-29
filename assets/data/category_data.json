@@ -1,0 +1,43 @@
+[
+    {
+        "id":"1",
+        "category_name":"Energy",
+        "category_image":"https://images.pexels.com/photos/4792509/pexels-photo-4792509.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id":"2",
+        "category_name":"Computer",
+        "category_image":"https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id":"3",
+        "category_name":"Planning",
+        "category_image":"https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id":"4",
+        "category_name":"City Night",
+        "category_image":"https://images.pexels.com/photos/3386540/pexels-photo-3386540.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id":"5",
+        "category_name":"Fantasy",
+        "category_image":"https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id":"6",
+        "category_name":"Palnt",
+        "category_image":"https://images.pexels.com/photos/3209811/pexels-photo-3209811.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id":"7",
+        "category_name":"Forest",
+        "category_image":"https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id":"8",
+        "category_name":"Beach",
+        "category_image":"https://images.pexels.com/photos/315998/pexels-photo-315998.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+    
+]
